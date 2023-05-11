@@ -1,2 +1,3 @@
 # AIBasic_Learning
-关于 AI 的基础知识
+
+以《统计学习方法》为基础
